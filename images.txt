@@ -9,10 +9,10 @@ redis:6-alpine
 ubuntu/squid:latest
 certbot/certbot
 semitechnologies/weaviate:1.19.0 
-langgenius/dify-web:1.0.0
-langgenius/dify-api:1.0.0
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-web:1.2.0
+langgenius/dify-api:1.2.0
+langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.7-local
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
