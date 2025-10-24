@@ -12,7 +12,7 @@ semitechnologies/weaviate:1.19.0
 langgenius/dify-web:1.9.2
 langgenius/dify-api:1.9.2
 langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.2.0-local
+langgenius/dify-plugin-daemon:0.3.3-local
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
