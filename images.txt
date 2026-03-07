@@ -5,8 +5,8 @@ redis:6-alpine
 ubuntu/squid:latest
 certbot/certbot
 semitechnologies/weaviate:1.19.0 
-langgenius/dify-web:1.12.1
-langgenius/dify-api:1.12.1
+langgenius/dify-web:1.13.0
+langgenius/dify-api:1.13.0
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.5.3-local
 langgenius/qdrant:v1.7.3
