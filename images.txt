@@ -20,3 +20,4 @@ matrixorigin/matrixone:2.1.1
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 oceanbase/oceanbase-ce:4.3.5-lts
+opengauss/opengauss:7.0.0-RC1
