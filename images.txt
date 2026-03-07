@@ -11,7 +11,7 @@ langgenius/dify-web:1.13.0
 langgenius/dify-api:1.13.0
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.5.3-local
-langgenius/qdrant:v1.7.3
+langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 minio/minio:RELEASE.2023-03-20T20-16-18Z
