@@ -15,7 +15,7 @@ langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.5.0-beta
+milvusdb/milvus:v2.6.3
 matrixorigin/matrixone:2.1.1
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
