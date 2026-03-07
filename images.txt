@@ -1,3 +1,4 @@
+vastdata/vastbase-vector
 node:22-bookworm
 busybox:latest
 nginx:latest
