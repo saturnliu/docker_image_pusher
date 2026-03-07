@@ -18,5 +18,4 @@ milvusdb/milvus:v2.5.0-beta
 matrixorigin/matrixone:2.1.1
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
-myscale/myscaledb:1.6.4
 oceanbase/oceanbase-ce:4.3.5-lts
