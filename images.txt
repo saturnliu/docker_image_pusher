@@ -1,4 +1,4 @@
-vastdata/vastbase-vector
+oceanbase/seekdb:latest
 node:22-bookworm
 busybox:latest
 nginx:latest
