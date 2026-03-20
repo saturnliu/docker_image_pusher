@@ -3,6 +3,7 @@ node:22-bookworm
 busybox:latest
 nginx:latest
 postgres:15-alpine
+postgres:17-alpine
 mysql:8.0
 redis:6-alpine 
 ubuntu/squid:latest
