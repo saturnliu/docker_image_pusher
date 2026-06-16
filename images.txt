@@ -10,8 +10,8 @@ certbot/certbot
 semitechnologies/weaviate:1.27.0 
 langgenius/dify-web:1.14.2
 langgenius/dify-api:1.14.2
-langgenius/dify-sandbox:0.2.14
-langgenius/dify-plugin-daemon:0.5.3-local
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-plugin-daemon:0.6.1-local
 langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
