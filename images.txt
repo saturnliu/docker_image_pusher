@@ -1,6 +1,7 @@
 nousresearch/hermes-agent:latest
 oceanbase/seekdb:latest
 node:22-bookworm
+node:26-bookworm
 busybox:latest
 nginx:latest
 postgres:15-alpine
