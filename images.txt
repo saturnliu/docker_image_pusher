@@ -1,6 +1,6 @@
 nousresearch/hermes-agent:latest
 oceanbase/seekdb:latest
-node:22-bookworm
+songloft/songloft:latest
 node:26-bookworm
 busybox:latest
 nginx:latest
